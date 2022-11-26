@@ -1,0 +1,25 @@
+/* styling lock screen */
+#lock-container {
+  position: relative;
+  top: 50px;
+}
+
+.msg {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  color: whitesmoke;
+}
+
+/* styling header */
+.header-cont {
+  background-color: black;
+  color: rgb(126, 33, 233);
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+#battery-img {
+  width: 20px;
+}
